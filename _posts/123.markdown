@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to Jekyll copy!"
+date:   2016-08-29 12:21:34 -0400
+categories: jekyll update copy
+---
+You’ll find this post has been edited by SantzaPaul
